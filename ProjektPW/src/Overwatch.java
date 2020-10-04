@@ -93,7 +93,7 @@ public class Overwatch implements Runnable{
 	public void run() {
 		while(true) {
 			if(Graph.lightsOn) {
-				
+
 				//Stage1:
 				System.out.println("Faza1");			
 				Graph.v[7].signals[7].release();

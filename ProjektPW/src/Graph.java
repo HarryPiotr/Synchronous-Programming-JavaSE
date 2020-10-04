@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class Graph {
 
-	public static boolean lightsOn = true;
+	public static boolean lightsOn = false;
 	public static boolean showCrossBoxes = false;
 	public static int allowedSize = 40;
 	public static String carImages[] =

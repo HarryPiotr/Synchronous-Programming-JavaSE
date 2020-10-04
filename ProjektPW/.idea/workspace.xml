@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67b8743f-160a-42d8-af25-488de0a58931" name="Default Changelist" comment="" />
+    <list default="true" id="67b8743f-160a-42d8-af25-488de0a58931" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjektPW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjektPW.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Overwatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Overwatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Panel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Panel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SplitVertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SplitVertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Window$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Window$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overwatch.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Z4ve3qLWG5UL7h0u6cgOxBJjRq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -17,13 +36,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Window">
+  <component name="RunManager" selected="Application.Window (1)">
     <configuration name="Window (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Window" />
+      <module name="ProjektPW" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -39,10 +62,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Window" />
         <item itemvalue="Application.Window (1)" />
+        <item itemvalue="Application.Window" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,6 +93,8 @@
       <workItem from="1590264453883" duration="236000" />
       <workItem from="1594692047371" duration="107000" />
       <workItem from="1598166667828" duration="12000" />
+      <workItem from="1601852088019" duration="156000" />
+      <workItem from="1601852263703" duration="517000" />
     </task>
     <servers />
   </component>
@@ -65,33 +102,39 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="409" y="31" key="#Window_(1)" timestamp="1594692075395">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="552" y="180" key="#Project_Structure" timestamp="1601852230222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601852230222" />
+    <state x="575" y="44" key="#Window_(1)" timestamp="1601852121527">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="409" y="31" key="#Window_(1)/0.0.1366.728@0.0.1366.728" timestamp="1594692075395" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1594692155117">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="575" y="44" key="#Window_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1601852121527" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1601852782164">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594692155117" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1594692155117">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601852782164" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1601852782163">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594692155117" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1594692155117">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601852782163" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1601852782163">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594692155117" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1594692155117">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601852782163" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1601852782164">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594692155117" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1598166670258">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601852782164" />
+    <state x="548" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1601852263366">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598166670258" />
-    <state x="65" y="0" key="new project wizard" timestamp="1590264685653">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590264685653" />
+    <state x="548" y="271" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601852263366" />
   </component>
 </project>
